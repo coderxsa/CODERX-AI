@@ -4,10 +4,10 @@
         "title": "FLIRT",
         "items": [
           {
-            "name": "Digital Collection",
+            "name": "Mila",
             "link": "https://coderxtempchat.000webhostapp.com/CHAT/MIla/",
-            "imageSrc": "./assets/images/showcase-1.jpg",
-            "profileImageSrc": "./assets/images/avatar-1.jpg",
+            "imageSrc": "./assets/images/models/mila.jpg",
+            "profileImageSrc": "./assets/images/models/coderx.jpg",
             "profileName": "@coderxsa"
           }
         ]
