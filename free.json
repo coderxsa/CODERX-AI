@@ -5,7 +5,7 @@
         "items": [
           {
             "name": "Mila",
-            "link": "https://coderxtempchat.000webhostapp.com/CHAT/FREE/Mila/",
+            "link": "https://coderxtempchat.000webhostapp.com/CHAT/Mila/",
             "imageSrc": "./assets/images/models/mila.jpg",
             "profileImageSrc": "./assets/images/models/coderx.jpg",
             "profileName": "@coderxsa"
@@ -13,14 +13,14 @@
         ]
       },
       {
-        "title": "Another Collection",
+        "title": "Sex",
         "items": [
           {
-            "name": "Another Item",
-            "link": "https://example.com/another-item/",
-            "imageSrc": "./assets/images/another-item.jpg",
-            "profileImageSrc": "./assets/images/another-profile.jpg",
-            "profileName": "@anotherprofile"
+            "name": "Sex",
+            "link": "https://coderxtempchat.000webhostapp.com/CHAT/Sex/",
+            "imageSrc": "./assets/images/models/sex.jpg",
+            "profileImageSrc": "./assets/images/models/coderx.jpg",
+            "profileName": "@coderxsa"
           }
         ]
       }
