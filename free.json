@@ -1,0 +1,30 @@
+{
+    "topCollections": [
+      {
+        "title": "FLIRT",
+        "items": [
+          {
+            "name": "Digital Collection",
+            "link": "https://coderxtempchat.000webhostapp.com/CHAT/MIla/",
+            "imageSrc": "./assets/images/showcase-1.jpg",
+            "profileImageSrc": "./assets/images/avatar-1.jpg",
+            "profileName": "@coderxsa"
+          }
+        ]
+      },
+      {
+        "title": "Another Collection",
+        "items": [
+          {
+            "name": "Another Item",
+            "link": "https://example.com/another-item/",
+            "imageSrc": "./assets/images/another-item.jpg",
+            "profileImageSrc": "./assets/images/another-profile.jpg",
+            "profileName": "@anotherprofile"
+          }
+        ]
+      }
+    ]
+}
+  
+  
