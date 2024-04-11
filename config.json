@@ -1,0 +1,20 @@
+{
+  "discoverItems": [
+    {
+      "name": "SOON",
+      "link": "#",
+      "imageSrc": "./assets/images/models/",
+      "profileImageSrc": "./assets/images/models/",
+      "profileName": "@coderxsa",
+      "price": "R25 - 1 day"
+    },
+    {
+      "name": "SOON",
+      "link": "#",
+      "imageSrc": "./assets/images/models/",
+      "profileImageSrc": "./assets/images/models/",
+      "profileName": "@coderxsa",
+      "price": "R25 - 1 day"
+    }
+  ]
+}
