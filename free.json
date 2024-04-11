@@ -3,20 +3,21 @@
   "items": [
     {
       "name": "Mila",
-      "link": "https://coderxtempchat.000webhostapp.com/CHAT/Mila/",
+      "link": "https://coderxtempchat.000webhostapp.com/CHAT/FREE/Mila/",
       "imageSrc": "./assets/images/models/mila.jpg",
       "profileImageSrc": "./assets/images/models/coderx.jpg",
       "profileName": "@coderxsa"
     },
     {
-      "name": "Another Item",
-      "link": "https://coderxtempchat.000webhostapp.com/CHAT/Sex/",
+      "name": "Sex",
+      "link": "https://coderxtempchat.000webhostapp.com/CHAT/FREE/Sex/",
       "imageSrc": "./assets/images/models/sex.jpg",
       "profileImageSrc": "./assets/images/models/coderx.jpg",
       "profileName": "@coderxsa"
     }
   ]
 }
+
 
   
   
