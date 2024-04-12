@@ -1,20 +1,20 @@
 {
   "discoverItems": [
     {
-      "name": "SOON",
+      "name": "GEN-Z-GOD",
       "link": "#",
-      "imageSrc": "./assets/images/models/",
-      "profileImageSrc": "./assets/images/models/",
+      "imageSrc": "./assets/images/PAID/genzgod.jpg",
+      "profileImageSrc": "./assets/images/PAID/coderx.jpg",
       "profileName": "@coderxsa",
-      "price": "R25 - 1 day"
+      "price": "R25 | 1 day"
     },
     {
-      "name": "SOON",
+      "name": "ANNABELLE",
       "link": "#",
-      "imageSrc": "./assets/images/models/",
-      "profileImageSrc": "./assets/images/models/",
+      "imageSrc": "./assets/images/PAID/annabelle.jpg",
+      "profileImageSrc": "./assets/images/PAID/coderx.jpg",
       "profileName": "@coderxsa",
-      "price": "R25 - 1 day"
+      "price": "R25 | 1 day"
     }
   ]
 }
